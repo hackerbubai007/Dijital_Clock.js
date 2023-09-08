@@ -4,7 +4,7 @@
 
 This is a simple digital clock that displays the current time in hours, minutes, seconds, and AM/PM.
 # Hosted Link: 
-
+https://hackerbubai007.github.io/Dijital_Clock.js/
 ## How to use
 
 To use this clock, simply open the `index.html` file in a web browser. The clock will start running automatically.
